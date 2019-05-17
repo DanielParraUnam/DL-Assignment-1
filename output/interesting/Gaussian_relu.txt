@@ -1,0 +1,153 @@
+              precision    recall  f1-score   support
+
+        cats       0.52      0.71      0.60       516
+        dogs       0.53      0.28      0.36       474
+       panda       0.77      0.83      0.80       510
+
+   micro avg       0.61      0.61      0.61      1500
+   macro avg       0.61      0.61      0.59      1500
+weighted avg       0.61      0.61      0.59      1500
+              precision    recall  f1-score   support
+
+        cats       0.52      0.85      0.64       516
+        dogs       0.61      0.40      0.48       474
+       panda       0.97      0.64      0.77       510
+
+   micro avg       0.64      0.64      0.64      1500
+   macro avg       0.70      0.63      0.63      1500
+weighted avg       0.70      0.64      0.64      1500
+              precision    recall  f1-score   support
+
+        cats       0.48      0.83      0.61       516
+        dogs       0.63      0.28      0.39       474
+       panda       0.90      0.70      0.78       510
+
+   micro avg       0.61      0.61      0.61      1500
+   macro avg       0.67      0.60      0.59      1500
+weighted avg       0.67      0.61      0.60      1500
+              precision    recall  f1-score   support
+
+        cats       0.51      0.68      0.58       516
+        dogs       0.54      0.52      0.53       474
+       panda       0.95      0.65      0.77       510
+
+   micro avg       0.62      0.62      0.62      1500
+   macro avg       0.67      0.62      0.63      1500
+weighted avg       0.67      0.62      0.63      1500
+              precision    recall  f1-score   support
+
+        cats       0.49      0.88      0.63       516
+        dogs       0.57      0.03      0.05       474
+       panda       0.73      0.80      0.77       510
+
+   micro avg       0.58      0.58      0.58      1500
+   macro avg       0.60      0.57      0.48      1500
+weighted avg       0.60      0.58      0.49      1500
+              precision    recall  f1-score   support
+
+        cats       0.46      0.85      0.60       516
+        dogs       0.59      0.26      0.36       474
+       panda       0.95      0.64      0.77       510
+
+   micro avg       0.59      0.59      0.59      1500
+   macro avg       0.67      0.58      0.58      1500
+weighted avg       0.67      0.59      0.58      1500
+              precision    recall  f1-score   support
+
+        cats       0.53      0.67      0.59       513
+        dogs       0.56      0.33      0.42       472
+       panda       0.78      0.86      0.82       515
+
+   micro avg       0.63      0.63      0.63      1500
+   macro avg       0.62      0.62      0.61      1500
+weighted avg       0.62      0.63      0.61      1500
+              precision    recall  f1-score   support
+
+        cats       0.50      0.77      0.61       502
+        dogs       0.66      0.29      0.41       507
+       panda       0.80      0.82      0.81       491
+
+   micro avg       0.63      0.63      0.63      1500
+   macro avg       0.65      0.63      0.61      1500
+weighted avg       0.65      0.63      0.61      1500
+              precision    recall  f1-score   support
+
+        cats       0.54      0.73      0.62       502
+        dogs       0.69      0.21      0.32       507
+       panda       0.69      0.94      0.80       491
+
+   micro avg       0.62      0.62      0.62      1500
+   macro avg       0.64      0.63      0.58      1500
+weighted avg       0.64      0.62      0.58      1500
+              precision    recall  f1-score   support
+
+        cats       0.46      0.90      0.61       502
+        dogs       0.69      0.14      0.24       507
+       panda       0.89      0.75      0.81       491
+
+   micro avg       0.59      0.59      0.59      1500
+   macro avg       0.68      0.60      0.55      1500
+weighted avg       0.68      0.59      0.55      1500
+              precision    recall  f1-score   support
+
+        cats       0.49      0.66      0.56       502
+        dogs       0.60      0.48      0.53       507
+       panda       0.91      0.78      0.84       491
+
+   micro avg       0.64      0.64      0.64      1500
+   macro avg       0.67      0.64      0.64      1500
+weighted avg       0.66      0.64      0.64      1500
+              precision    recall  f1-score   support
+
+        cats       0.52      0.64      0.57       511
+        dogs       0.56      0.46      0.50       471
+       panda       0.88      0.81      0.84       518
+
+   micro avg       0.64      0.64      0.64      1500
+   macro avg       0.65      0.64      0.64      1500
+weighted avg       0.65      0.64      0.64      1500
+              precision    recall  f1-score   support
+
+        cats       0.55      0.77      0.64       511
+        dogs       0.64      0.33      0.43       471
+       panda       0.82      0.87      0.84       518
+
+   micro avg       0.66      0.66      0.66      1500
+   macro avg       0.67      0.65      0.64      1500
+weighted avg       0.67      0.66      0.65      1500
+              precision    recall  f1-score   support
+
+        cats       0.48      0.90      0.62       511
+        dogs       0.70      0.16      0.26       471
+       panda       0.86      0.72      0.78       518
+
+   micro avg       0.60      0.60      0.60      1500
+   macro avg       0.68      0.59      0.56      1500
+weighted avg       0.68      0.60      0.57      1500
+              precision    recall  f1-score   support
+
+        cats       0.51      0.56      0.53       511
+        dogs       0.54      0.58      0.56       471
+       panda       0.89      0.75      0.82       518
+
+   micro avg       0.63      0.63      0.63      1500
+   macro avg       0.65      0.63      0.64      1500
+weighted avg       0.65      0.63      0.64      1500
+              precision    recall  f1-score   support
+
+        cats       0.51      0.86      0.64       511
+        dogs       0.69      0.32      0.44       471
+       panda       0.90      0.73      0.81       518
+
+   micro avg       0.65      0.65      0.65      1500
+   macro avg       0.70      0.64      0.63      1500
+weighted avg       0.70      0.65      0.64      1500
+              precision    recall  f1-score   support
+
+        cats       0.58      0.72      0.64       513
+        dogs       0.64      0.32      0.42       501
+       panda       0.74      0.94      0.83       486
+
+   micro avg       0.66      0.66      0.66      1500
+   macro avg       0.65      0.66      0.63      1500
+weighted avg       0.65      0.66      0.63      1500
